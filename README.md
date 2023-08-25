@@ -90,9 +90,9 @@ rails server
 
 👤 **Massa Zoumanigui**
 
-- GitHub: [@githubhandle](https://github.com/massazoum)
-- Twitter: [@twitterhandle](https://twitter.com/zoumaniguimass1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zoumtechmassa)
+- GitHub: [@massazoum](https://github.com/massazoum)
+- Twitter: [@zoumaniguimass1](https://twitter.com/zoumaniguimass1)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/massa-zoumanigui-1aba4525a)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
