@@ -83,7 +83,7 @@ rails server
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-###Link to Hello-Rails-Backend App
+### Link to Hello-Rails-Backend App
 - [🚀 Link to hello-react-front-end App](https://github.com/massazoum/hello-react-front-end.git)
 
 ## 👥 Authors <a name="authors"></a>
